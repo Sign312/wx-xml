@@ -1,0 +1,22 @@
+{
+  "name": "wx-xml",
+  "version": "0.0.1",
+  "description": "node.js微信开发时解析和转化xml数据",
+  "main": "wx-xml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flypie2/wx-xml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flypie2/wx-xml/issues"
+  },
+  "homepage": "https://github.com/flypie2/wx-xml#readme",
+  "dependencies": {
+    "xml2json": "^0.10.0"
+  }
+}
