@@ -18,6 +18,8 @@ node.js微信开发时解析和转化xml数据
 * js对象转化为xml
 
         WxXml.js2xml(js)
+        
+        WxXml.js2xml(js,false)  //若不需要"<![CDATA[...]]>"
        
 #### dependence:
 
